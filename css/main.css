@@ -92,6 +92,7 @@ body {
 
 .title {
     color: #031D40;
+    line-height: 150%;
 }
 
 /* ==============
@@ -181,7 +182,13 @@ img {
     height: auto;
 }
 
+.lt-gray-bg {
+    background-color: #f1f1f1;
+}
 
+a h1:hover {
+    color: #2F435B;
+}
 
 
 
