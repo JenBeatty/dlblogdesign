@@ -162,6 +162,7 @@ nav a:hover {
 
 h1, h2, h3, h4, h5, h6 {
     color: #031D40;
+    line-height: 150%;
 }
 
 a {
