@@ -195,7 +195,7 @@ a h1:hover {
     margin-bottom: 1em;
 }
 
-header {
+.border-bottom {
     border-bottom: 1px dashed #444444;
 }
 
